@@ -3,12 +3,21 @@
 
 @media only screen and (max-width: 36em) {
 
+body {
+  font: 100% Arial, sans-serif;
+  color: #000;
+}
+
 
 
 }
 
 @media(min-width:36em){
 
+  body {
+    font: 100% Arial, sans-serif;
+    color: #000;
+  }
 
 
 }
@@ -16,7 +25,10 @@
 
 @media(min-width:48em){
 
-
+  body {
+    font: 100% Arial, sans-serif;
+    color: #000;
+  }
 
 
 }
@@ -24,21 +36,30 @@
 
 @media(min-width:62em){
 
-
+  body {
+    font: 100% Arial, sans-serif;
+    color: #000;
+  }
 
 
 }
 
 @media(min-width:75em){
 
-
+  body {
+    font: 100% Arial, sans-serif;
+    color: #000;
+  }
 
 
 }
 
 @media(min-width:100em){
 
-
+  body {
+    font: 100% Arial, sans-serif;
+    color: #000;
+  }
 
 
 }
