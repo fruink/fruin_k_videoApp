@@ -1,6 +1,7 @@
 # fruin_k_videoApp
 AUDIO / VIDEO APP - Authoring 2 HW_2
 Part 1 - Creating the project structure and views
+Part 2 - Creating the back-end and routes
 
 # Project Overview #
 
